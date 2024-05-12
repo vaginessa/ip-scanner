@@ -63,3 +63,6 @@ than GitLab issue tracker mentioned above.
 [MIT License](https://gitlab.com/technowolf/ip-scanner/-/blob/main/LICENSE) Copyright (c) 2022 TechnoWolf FOSS
 
 IP Scanner is licenced under the terms of MIT license.
+
+
+.
